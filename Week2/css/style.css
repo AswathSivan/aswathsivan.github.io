@@ -3,16 +3,20 @@
 }
 
 h1{
+  padding-top: 5px;
   text-align: center;
+  font-family: monospace;
 }
 
 p {
-  background-color: #bfbfbf;
   border: 2px solid black;
-  height: 150px;
+  height: 160px;
   margin-right: 10px;
-  padding: 40px 10px 5px 10px;
+  background-color: #bfbfbf;
+  padding: 50px 20px 5px 10px;
   overflow: hidden;
+  font-family: Monospace;
+  font-size: 15px;
 }
 
 
@@ -31,7 +35,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  
 
 }
 #p2 {
@@ -45,7 +49,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Monospace;
 
 }
 #p3 {
@@ -58,7 +62,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Monospace;
 
 }
 
