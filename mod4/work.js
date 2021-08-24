@@ -1,14 +1,15 @@
-var names = new Array();
-names[0]= 'Ashok';
-names[1]='sanjay';
-names[2]= 'janvi';
-names[3]= 'Akshay';
-names[4]= 'smitha';
-names[5]= 'sreetha';
-names[6]= 'jacob';
-names[7]= 'Arun';
-names[8]= 'sivan';
-names[9]= 'joshua';
+var names=new Array();
+names[0]="Yaakov";
+names[1]="John";
+names[2]="Jen";
+names[3]="jason";
+names[4]="paul";
+names[5]="frank";
+names[6]="larry";
+names[7]="paula";
+names[8]="laura";
+names[9]="jim";
+
 
 for (var i = 0; i < names.length; i++) {
 	if(names[i].charAt(0)==='J'|| names[i].charAt(0)==='j'){
